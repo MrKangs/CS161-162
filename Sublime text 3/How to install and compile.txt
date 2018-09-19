@@ -1,0 +1,2 @@
+Crtl + b will compile the program. check out more stuff--> https://www.youtube.com/watch?v=hXDdhRH7J84
+Setting up the java enviroment path(ignore the notepad++) --> https://www.youtube.com/watch?v=cKYDscSINzM
